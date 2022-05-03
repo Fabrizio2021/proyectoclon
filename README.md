@@ -1,0 +1,2 @@
+Hola Tuto paso a explicar un poco mi proyecto, hice una pagina de venta de zapatillas me guie de las paginas de adidas, nike y dexter,explico un poco que use.
+Use varios Hooks de react, tambien context, dom , Measuring Performance, tambien use la libreria de jest-dom para el test, boxicons para los iconos y no mucho mas, la verdad no soy bueno para explicar por escrito pero cualquier cosa podemos hablarlo o hacer una llamada, estoy a su disposición. :)
